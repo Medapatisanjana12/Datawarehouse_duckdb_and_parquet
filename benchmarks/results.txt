@@ -1,0 +1,1 @@
+{'top_products_csv': 0.004453897476196289, 'sales_by_region_csv': 0.0025064945220947266, 'customer_spend_csv': 0.003810882568359375, 'top_products_parquet': 0.0036318302154541016, 'sales_by_region_parquet': 0.0025382041931152344, 'customer_spend_parquet': 0.005474567413330078}
